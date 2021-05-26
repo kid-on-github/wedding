@@ -43,6 +43,7 @@ header>a {
     text-decoration: none;
     text-decoration-color: black;
     transition: color .15s;
+    color:black;
 }
 
 header > a:visited{
